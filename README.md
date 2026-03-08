@@ -1,21 +1,19 @@
 # Project-alfa
 
 What This Tracker Does
+📊 follower growth chart
 
-✔ Save your daily follower count
-✔ Track growth over time
-✔ Store data in your browser
-✔ Simple personal analytics tool
+📅 daily tracking
 
-Example use:
+📈 engagement rate
 
-Username: nikhil_dev
-Followers: 520
+🌙 dark mode
 
-Saved result:
+💾 data saved automatically
 
-03/08/2026 - @nikhil_dev : 520 followers
-If you want, I can also build a much better Instagram tracker with:
+📱 modern UI
+
+(You can open it in a browser and track stats for your Instagram profile.)
 
 📊 follower growth charts
 
